@@ -7,7 +7,7 @@ AWS reading list
 
 
 
--CICD
+### CICD
 
 MUST READ - Blue/Green Deployments on AWS
 
@@ -26,7 +26,7 @@ OPTIONAL - Development and Test on AWS
 - [ ] https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
 
 
--CloudFormation:
+### CloudFormation:
 
 - [ ] https://stackoverflow.com/a/45007029/3019499
 
@@ -48,7 +48,7 @@ OPTIONAL - Development and Test on AWS
 
 - [ ] https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/protect-stack-resources.html
 
--Beanstalk
+### Beanstalk
 
 - [ ] https://github.com/aws/aws-elastic-beanstalk-cli-setup
 
@@ -66,17 +66,17 @@ OPTIONAL - Development and Test on AWS
 
 - [ ] https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_v2config.html
 
--Lambda:
+### Lambda:
 
 - [ ] https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
 
 - [ ] https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/automating-updates-to-serverless-apps.html
 
--Step Functions
+### Step Functions
 
 - [ ] https://aws.amazon.com/step-functions/use-cases/
 
--API Gateway
+### API Gateway
 
 - [ ] https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-private-endpoints/
 
@@ -86,7 +86,7 @@ OPTIONAL - Development and Test on AWS
 
 
 
--ECS
+### ECS
 
 - [ ] https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-auto-scaling.html
 
@@ -104,7 +104,7 @@ OPTIONAL - Development and Test on AWS
 
 
 
--Opsworks
+### Opsworks
 
 - [ ] https://docs.aws.amazon.com/opsworks/latest/userguide/welcome_classic.html
 
