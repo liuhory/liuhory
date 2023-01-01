@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+
+-CICD
+
 MUST READ - Blue/Green Deployments on AWS
 https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
 
