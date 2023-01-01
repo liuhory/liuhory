@@ -10,7 +10,7 @@ AWS reading list
 -CICD
 
 MUST READ - Blue/Green Deployments on AWS
-- [ ]https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+[]https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
 
 RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
 https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
