@@ -9,20 +9,20 @@ AWS reading list
 
 ### CICD
 
-MUST READ - Blue/Green Deployments on AWS
+- Blue/Green Deployments on AWS
 
 - [ ] https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
 
-RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
+- Practicing Continuous Integration Continuous Delivery on AWS
 - [ ] https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
 
-RECOMMENDED - Jenkins on AWS
+- Jenkins on AWS
 - [ ] https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf
 
-OPTIONAL - Introduction to DevOps on AWS
+- Introduction to DevOps on AWS
 - [ ] https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
 
-OPTIONAL - Development and Test on AWS
+- Development and Test on AWS
 - [ ] https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
 
 
